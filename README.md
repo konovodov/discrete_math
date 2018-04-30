@@ -1,1 +1,1 @@
-# discrete_math
+Discrete mathematics, cybernetics
